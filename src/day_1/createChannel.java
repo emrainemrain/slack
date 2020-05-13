@@ -11,7 +11,7 @@ if(s.contains("a")){
     System.out.println("not");
 }
 
-        int x=0;//from interlij
+        int x=0;//from interlijgit
         if (x==0){
             System.out.println("equal");
         }
